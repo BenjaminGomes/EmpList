@@ -1,0 +1,101 @@
+Empno,Firstname,Lastname,MiddleInit,Suffix,Address1,Address2,City,State,Zip,Phone,Gender,Status,HireDate,TerminateDt,PayCd
+10100057,Jean,Sims,C,,6450 Kaskaskia Rd,,Ballwin,MO,63021,2071016,F,A,10-Apr-06,,4
+10991557,Nicole,Hauser,,,2704 Ellendale Ave,,East Saint Louis,IL,62203,2136510,F,A,05-Jun-09,,2
+10991546,Linda,Lasater,W,,4362 Ventura Plc,,Smithton,IL,62285,2229237,F,A,05-Apr-04,,1
+10991623,Patricia,Hayes,A,,1330 N Park Dr.,,Belleville,IL,62223,2340530,F,A,21-Feb-07,,2
+10100005,Joseph,Matkins,,,1632 S. 13th St.,P.o. Box 4528,Fairview Heights,IL,62208,2354340,M,A,05-Apr-04,,2
+10991552,Margaret,Anderson,L,,121 S. Pennsylvania,P.o. Box 4528,Fairview Heights,IL,62208,2354343,F,A,10-Apr-06,,2
+10991577,Laveda,Iezzi,,,1751 Elizabeth Rd.,,St. Louis,MO,63133,2413332,F,A,18-May-09,,3
+10991564,Quinton,Ballard,,,3441 Manassas,,St. Louis,MO,63136,2418702,M,A,05-Apr-04,,4
+10004541,Michael,Hoffman,,,5105 Towne Centre Dr,,St. Louis,MO,63136,2418799,M,X,27-Apr-04,30-Sep-14,2
+10000247,Nolan,Putney,E,,1235 Elkhart,,St. Louis,MO,63125,2553125,M,A,01-Apr-07,,1
+10008074,Nancy,Moffett,C,,14209 Forest Crst Dr,,Wildwood,MO,63038,2567969,F,A,10-Apr-06,,4
+10007046,Stephanie,Olson,C,,3931 Camelot Est Ct.,,Belleville,IL,62221,2770258,F,A,10-Apr-06,,3
+10100024,Steven,Osterhage,J,,4017 Dryden,,Belleville,IL,62221,2770259,M,A,10-Apr-06,,4
+10991615,Barbara,Haenchen,M,,24 Harmon Dr,,Arnold,MO,63010,2821966,F,A,01-Apr-07,,2
+10991604,Ronald,Morris,A,,26 Rhineland Pl.,,Arnold,MO,63010,2827133,M,A,10-Apr-06,,3
+10008029,Donna,Hagemann,P,,9937 Solar Lane,,Arnold,MO,63010,2879379,F,A,01-May-06,,2
+10991589,John,Scott,F,,1004 Spruce St.,,St. Louis,MO,63102,2881499,M,A,01-Apr-07,,3
+10991581,Marion,Briggs,J,,1921 Forest Ave,,Glen Carbon,IL,62034,2885817,M,A,01-Apr-07,,2
+10991574,Mary,Schwab,P,,1212 South 11th St,,Glen Carbon,IL,62034,2887641,F,A,10-Apr-06,,4
+10008660,Judy,Hoguet,,,6429 Alpha Dr,,St. Louis,MO,63147,2899014,F,A,01-Aug-06,,1
+10991621,Mary,Kolkhorst,P,,5500 Nora Ct.,,St. Charles,MO,63303,2994694,F,A,05-Apr-04,,4
+10991610,Christi,Cendroski,V,,1541 Bayonne Dr,,St. Louis,MO,63104,3155395,F,A,01-Apr-07,,1
+10991567,Jason,Maddox,C,,1718 Exuma Dr.,,Affton,MO,63123,3225359,M,A,05-Apr-04,,3
+10991570,Scott,Hausmann,E,,1010 Warwick Place,,St. Charles,MO,63304,3298515,M,A,21-Feb-07,,1
+10991588,Christopher,Barrett,D,,4645 Kramer Drive,,St. Louis,MO,63104,3321456,M,X,10-Apr-06,05-Oct-14,2
+10991595,Alonzo,Bremen,J,,208 N. 9th St.,,St. Louis,MO,63115,3345432,M,A,10-Apr-06,,1
+10991554,Julia,Maule,,,8632 Orchard Ct.,,Cahokia,IL,62206,3377451,F,X,18-Apr-03,01-Oct-14,3
+10991562,Stephen,Davis,R,,413 Winter Lake,,East St. Louis,IL,62203,3487529,F,A,31-Jul-01,,1
+10100008,Brendan,Higginbottom,A,,821 Belleview,,St. Louis,MO,63116,3513875,M,A,21-Feb-07,,3
+10008268,Nashi,Mitan,J,,50 Rushmore Dr.,,Bethalto,IL,62010,3770827,F,A,01-Apr-07,,3
+10991616,Jacob,Dyer,A,,4450 Natural Bridge,,Bethalto,IL,62010,3770829,M,A,16-May-06,,4
+10991579,Debra,Dimaggio,J,,54 Green Pines Cir,,Bethalto,IL,62010,3771410,F,A,16-May-06,,3
+10991603,Jeffrey,Sparks,A,,33 Country Club Pl,,Bethalto,IL,62010,3771447,M,A,01-Apr-07,,2
+10001546,Sharon D,Cinco,K,,6402 Inlet Ct,,St. Louis,MO,63136,3832256,F,A,16-May-06,,3
+10991597,Linda,Chatman,,,3085 Shady Oak Drive,,St. Louis,MO,63136,3882854,F,A,01-Apr-07,,3
+10991575,Helen,Lange,L,,809 Pershing,,Belleville,IL,62223,3980726,F,A,05-Apr-04,,3
+10991586,Lois,Lograsso,J,,1950 During Circle,Court,Grover,MO,63040,4052978,F,A,05-Apr-04,,3
+10500032,William,Luzecky,E,,8 Haven View Dr.,Court,Grover,MO,63040,4052979,M,A,05-Apr-04,,4
+10008127,John,Lee,L,,5600 Deloak Dr.,Drive,St. Louis,MO,63129,4164920,M,A,10-Apr-06,,3
+10991555,Rebecca,Hill,G,,5733 Oleatha,,St. Ann,MO,63074,4261238,F,A,30-Apr-06,,3
+10005532,Jinnett,Degreeff,,,5827 Rhodes,,St. Louis,MO,63132,4323461,F,A,01-Apr-07,,2
+10995012,James,Bennett,L,,15436 Highcroft Dr.,,St. Louis,MO,63104,4361582,M,A,10-Apr-06,,3
+10001608,Susan,Hacker,L,,4436 Kerth Manor Dr,,St. Charles,MO,63303,4431222,F,A,16-May-06,,2
+10100040,James,Misrac,R,,16 Larkin Lane,,Arnold,MO,63010,4642913,M,A,10-Apr-06,,2
+10009694,Sally,Mathis,A,,422 Autumn Peak Dr.,,Alton,IL,62002,4663194,F,A,01-Apr-07,,2
+10991559,Angela,Stangl,E,,702 Bertholdt St.,,Godfrey,IL,62035,4665185,F,A,10-Apr-06,,3
+10991609,Jack,Buesking,F,,9209 Bent Pine Ct,,Godfrey,IL,62035,4665561,M,A,01-Apr-07,,3
+10991622,Anthony,Swallow,C,,486 Bandmour Pl,,Imperial,MO,63052,4677114,M,A,10-Apr-06,,3
+10008653,Barbara,Worthen,R,,300 N. 4th Street,,Smithton,IL,62285,4733324,F,A,10-Apr-06,,4
+10991619,Ira,Pierce,A,,1217 Bethany Lane,,New Athens,IL,62264,4753631,M,A,10-Apr-06,,1
+10008754,Earnestine,Armstrong,A,,202 Stillbrk Est Dr,,Millstadt,IL,62260,4761302,F,A,10-Apr-06,,3
+10505038,Frederick,Compton,C,,3809 Hartford,,Millstadt,IL,62260,4763606,M,A,10-Apr-06,,2
+10991594,Mike Andrew,Kendrick,,,33 Rio Vista Dr.,,St. Louis,MO,63109,4818402,M,A,05-Apr-04,,2
+10991596,Philip,Hixson,S,,1120  Dillion,,East St. Louis,IL,62201,4820286,M,A,01-Aug-06,,2
+10991607,Kayrisa,Sander,J,,2747 Ashrock,,Ferguson,MO,63135,5186805,F,A,10-Apr-06,,1
+10991598,Lawrence,Cruse,L,,4 Henrietta Place,,Cahokia,IL,62206,5215523,M,A,01-Apr-07,,2
+10007512,Aujsha,Cheatham,A,,1995 The Woods Cir,,St. Louis,MO,63134,5218480,F,A,10-Apr-06,,1
+10503905,Markalow C,Bohlmann,J,,7641 Wydown,,Chesterfield,MO,63017,5372912,M,X,10-Apr-06,28-Sep-14,1
+10991618,James,Hedgecock,G,,10632 Meath,,Belleville,IL,62221,5413215,M,A,20-Aug-08,,3
+10991573,Cynthia,Mueller,B,,8324 Pepperidge Dr,,Lake St. Louis,MO,63367,5618129,F,A,10-Apr-06,,4
+10008207,David,Hisaw,M,,582 Monroe Mill Dr.,,St. Louis,MO,63124,5691893,M,A,01-Apr-07,,4
+10991628,Nancy,Spavale,S,,1453 Bold Eagle Rd.,,Chesterfield,MO,63017,5762081,F,A,10-Apr-06,,3
+10505010,Cynthia,Gray,S,,329 Timberwood Drive,,Belleville,IL,62223,6040549,F,A,16-May-06,,1
+10991543,Urana,Fuchs,C,,175 Papillon Dr.,,St. Louis,MO,63104,6217742,F,A,01-Apr-07,,4
+10991563,Richard,Wiser,H,,6009 Cedar Edge Dr,,Offallon,IL,62269,6244224,M,A,10-Apr-06,,3
+10991547,Clare,Damm,J,,204 Osterhage Dr,,St. Louis,MO,63125,6311081,F,X,31-Mar-03,01-Oct-14,3
+10008217,Sally,Brandon,W,,1610 Winter Road,,St. Louis,MO,63123,6311496,F,A,10-Apr-06,,4
+10991553,Carol,Mccamley,J,,832 Pershing,,Affton,MO,63123,6312220,F,A,10-Apr-06,,2
+10991568,Lonnie,Everson,M,,307 W. Ripa Ave,,St. Louis,MO,63125,6315571,M,A,16-May-06,,1
+10008340,Laquoria,Hixson,W,,1113 S 13th Street,,O'fallon,IL,62269,6328974,F,A,01-Apr-07,,2
+10503977,George,Hooper,E,,3503 Franklin Ave,,Stanton,IL,62088,6352316,M,A,01-Apr-07,,3
+10991549,John,Renshaw,T,,4020 Weber Road,,St. Louis,MO,63123,6389186,M,A,10-Apr-06,,2
+10991602,Connor,Jones,N,,1202 Woodgate Drive,,Edwardsville,IL,62025,6920991,M,A,05-Apr-04,,4
+10007517,Rodney,Hansen,M,,10239 Quail Run Dr,,Worden,IL,62097,6921294,M,A,16-May-06,,1
+10008657,Lora,Stringfellow,R,,5795 Stone Villa,Apt. 1508,St. Louis,MO,63102,7213851,F,A,10-Apr-06,,4
+10008048,David,Brown,A,,70 Countryfield Ct.,,Bridgeton,MO,63044,7398462,M,A,10-Apr-06,,3
+10991544,Phyllis,Gramlich,R,,10927 Brookings Dr,,St. Louis,MO,63106,7665327,M,A,16-May-06,,3
+10991576,Lonnie,Brunworth,F,,#7 Jason Drive,,St. Louis,MO,63139,7815431,M,A,01-Apr-07,,3
+10991601,Victoria,Kline,J,,6400 West Ct.,,Granite City,IL,62040,7970383,F,A,05-Apr-04,,3
+10991872,Lorenzo,Schuchman,M,,1979 Lake Clay Dr.,,Granite City,IL,62040,7972722,M,A,10-Apr-06,,3
+10991608,Phyllis,Dickerson,J,,3085 Shady Oak Drive,,Sunset Hills,MO,63127,8224104,F,A,16-May-06,,4
+10008350,Nancy,Nguyen,W,,4093 Avery Ln,,St. Louis,MO,63127,8227653,F,A,10-Apr-06,,2
+10991569,Christine,Kramer,R,,1373 Briar Creek Dr.,Terrace,St.louis,MO,63123,8423645,F,A,05-Apr-04,,1
+10007523,Ryan,Murar,J,,33 D Jeanette Drive,,Concord Village,MO,63123,8423708,M,A,01-Apr-07,,4
+10991617,David,Catanzaro,E,,31 Grand Ave,,St. Louis,MO,63129,8453304,M,A,01-Apr-07,,4
+10991590,Connie,Meyer,D,,9709 Winkler Dr.,,St. Louis,MO,63128,8458477,F,A,01-Apr-07,,2
+10990898,Dominic,Sharp,,,10341 Castle Drive,,St. Louis,MO,63129,8461736,M,A,10-Apr-06,,3
+10991542,Catherine,Metze,A,,6709 Bear Creek Dr.,,St. Louis,MO,63123,8491290,F,A,01-Apr-07,,1
+10005034,Mary Anne,Knight,J,,4 Hidden Meadow Ct.,,St. Louis,MO,63123,8493074,F,A,01-Apr-07,,1
+10991585,John,Pettis,A,,1120 Dillon,,St. Louis,MO,63136,8681840,M,A,10-Apr-06,,1
+10505025,Dawn,Weeeden,T,,828 N Forest Ave.,,St. Louis,MO,63129,8920594,F,A,10-Apr-06,,2
+10991614,Sandra,Sodemann,G,,20 Kadlec Drive,,Fenton,MO,63026,8920890,M,A,10-Apr-06,,1
+10100006,Marion,Hampton,H,,5601 Murdoch,,St. Louis,MO,63128,8928387,F,X,01-Apr-07,29-Sep-14,4
+10100051,Dorcas,Cornish,J,,3909 A Fillmore,,St. Louis,MO,63128,8941645,F,A,10-Apr-06,,4
+10990846,Lavada G,Mccollum,A,,822 Shady Castle Ct.,,St. Louis,MO,63128,8943912,F,A,01-Apr-07,,3
+10504008,Linda,Bright,J,,728 Forest Ave,,St. Louis,MO,63129,8946743,F,A,10-Apr-06,,2
+10008435,Mary Ann,Walter,,,4126 Berview Lane,,Webster Groves,MO,63119,9188318,F,A,10-Apr-06,,4
+10991548,Joann,Miller,,,663 Majesty Ct.,,Belleville,IL,62221,9206720,F,A,10-Apr-06,,4
+10991600,Antonio,Hoffmann,N,,10511 Musick Manor,,East St. Louis,IL,62201,9741828,M,A,31-Aug-07,,2
+10991561,Bailey,Fuist,,,247 Geremma Dr,,St. Louis,MO,63141,9910718,F,A,01-Apr-07,,1
